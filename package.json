@@ -1,0 +1,17 @@
+{
+  "name": "awn",
+  "version": "1.0.0",
+  "description": "awn token",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmed waqas nasir",
+  "license": "MIT",
+  "dependencies": {
+    "zeppelin-solidity": "1.6.0"
+  }
+}
